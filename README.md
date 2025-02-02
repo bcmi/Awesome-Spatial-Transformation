@@ -1,6 +1,6 @@
-# Awesome-Perspective-Transformation [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Awesome-Spatial-Transformation [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-A curated list of resources including papers, datasets, and relevant links pertaining to perspective transformation for image composition, which aims to adjust the view/pose of the inserted foreground object in a composite image via simple perspective transformation. For more complete resources on general 
+A curated list of resources including papers, datasets, and relevant links pertaining to spatial transformation for image composition, which aims to adjust the view/pose of the inserted foreground object in a composite image via simple spatial transformation (e.g., TPS transformation, perspective transformation). For more complete resources on general 
 image composition ([object insertion](https://github.com/bcmi/Awesome-Object-Insertion)), please refer to [Awesome-Image-Composition](https://github.com/bcmi/Awesome-Object-Insertion).
 
 
