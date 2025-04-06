@@ -15,6 +15,10 @@ Contributions are welcome.  If you wish to contribute, feel free to send a pull 
 + Fangneng Zhan, Hongyuan Zhu, Shijian Lu: "*Spatial Fusion GAN for Image Synthesis.*" CVPR (2019) [[pdf]](https://openaccess.thecvf.com/content_CVPR_2019/papers/Zhan_Spatial_Fusion_GAN_for_Image_Synthesis_CVPR_2019_paper.pdf) 
 + Chen-Hsuan Lin, Ersin Yumer, Oliver Wang, Eli Shechtman, Simon Lucey: "*ST-GAN: Spatial Transformer Generative Adversarial Networks for Image Compositing.*" CVPR (2018) [[pdf]](https://openaccess.thecvf.com/content_cvpr_2018/papers/Lin_ST-GAN_Spatial_Transformer_CVPR_2018_paper.pdf) [[code]](https://github.com/chenhsuanlin/spatial-transformer-GAN)
 
+## Datasets
+
++ **STRAT**: it contains three subdatasets: STRAT-glasses, STRAT-hat, and STRAT-tie, which correspond to "glasses try-on", "hat try-on", and "tie try-on" respectively. The accessory image (resp., human face or portrait image) is treated as foreground (resp., background). In each subdataset, the training set has 2000 pairs of foregrounds and backgrounds, while the test set has 1000 pairs of foregrounds and backgrounds. [[pdf]](https://arxiv.org/pdf/2207.02398.pdf) [[link]](https://github.com/bcmi/Accessory-Try-On-Dataset-STRAT)
+
 
 ## Other Resources
 
