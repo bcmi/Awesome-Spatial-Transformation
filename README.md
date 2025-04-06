@@ -7,7 +7,12 @@ image composition ([object insertion](https://github.com/bcmi/Awesome-Object-Ins
 ## Contributing
 
 Contributions are welcome.  If you wish to contribute, feel free to send a pull request. If you have suggestions for new sections to be included, please raise an issue and discuss before sending a pull request.
- 
+
+## Table of Contents
++ [Papers](#Papers)
++ [Datasets](#Datasets)
++ [Other Resources](#Other-resources)
+  
 ## Papers
 
 + Junhong Gou, Bo Zhang, Li Niu, Jianfu Zhang, Jianlou Si, Chen Qian, Liqing Zhang: "*Virtual Accessory Try-On via Keypoint Hallucination.*" arXiv preprint arXiv:2310.17131 (2023) [[arXiv]](https://arxiv.org/pdf/2310.17131.pdf)
